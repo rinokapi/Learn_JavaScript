@@ -1,0 +1,2 @@
+catatan
+1. for...in will execute a given block of code for each property in an object.
